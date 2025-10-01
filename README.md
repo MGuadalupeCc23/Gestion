@@ -1,5 +1,3 @@
-# Gestion
-
 # Fluxxy
 
 ## Documentación del Primer Sprint

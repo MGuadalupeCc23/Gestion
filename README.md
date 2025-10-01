@@ -48,7 +48,7 @@ Validación de cumplimiento de los criterios de aceptación establecidos.
 | 1    | Definir requisitos y criterios de aceptación  | Completado |
 | 2    | Planificación y seguimiento de tareas         | Completado |
 | 3    | Diseño de esquema de base de datos             | Completado |
-| 4    | Creación de API para gestión de perfiles (CRUD)| Completado |
+| 4    | Creación para gestión de perfiles              | Completado |
 | 5    | Implementación del sistema de roles y permisos | Completado |
 | 6    | Diseño de la interfaz de perfil de usuario     | Completado |
 | 7    | Implementación del formulario de edición       | Completado |
@@ -57,19 +57,14 @@ Validación de cumplimiento de los criterios de aceptación establecidos.
 | 10   | Integración de términos y condiciones           | Completado |
 | 11   | Pruebas de funcionalidad backend                | Completado |
 | 12   | Pruebas de interfaz de usuario                   | Completado |
-| 13   | Validación de criterios de aceptación            | Completado |
-
 ---
 
 ### Tecnologías Utilizadas
 
-**Backend:** [Ejemplo: Node.js, Express]
-**Base de Datos:** [Ejemplo: PostgreSQL, MongoDB]
-**Frontend:** [Ejemplo: React, Vue.js]
+**Backend:** [Dart]
+**Base de Datos:** [FireBase]
+**Frontend:** [Dart]
 **Control de versiones:** Git y GitHub
-
-(Modificar según corresponda)
-
 ---
 
 ### Próximos Pasos
@@ -79,16 +74,3 @@ Ampliación de funcionalidades de perfil.
 Implementación de pruebas automatizadas adicionales.
 Optimización de la interfaz y experiencia de usuario.
 
----
-
-### Contacto
-
-Para más información, sugerencias o reportes de errores, por favor utiliza el sistema de issues de GitHub o contacta directamente a los responsables del proyecto.
-Juan Carlos    -Scrum Master
-Jenny Ortega    -Product Owner
-Maria Guadalupe    -Dev Frontend
-Karla Rosas    -Dev Backend
-Sandra Paola    -QA
----
-
-Documento generado automáticamente como parte del proceso de gestión ágil de proyectos.
